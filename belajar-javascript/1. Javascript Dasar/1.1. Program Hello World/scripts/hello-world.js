@@ -1,0 +1,1 @@
+document.writeln('<p></p>Hello World Using File</p>')
